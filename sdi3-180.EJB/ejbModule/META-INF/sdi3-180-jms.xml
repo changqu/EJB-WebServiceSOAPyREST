@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messaging-deployment xmlns="urn:jboss:messaging-deployment:1.0">
+	<hornetq-server>
+		<jms-destinations>
+			<jms-queue name="TripQueue">
+				<entry name="queue/TripQueue" />
+				<entry name="java:jboss/exported/jms/queue/TripQueue" />
+				<durable>true</durable>
+			</jms-queue>
+			<jms-queue name="MessageEquivocado">
+				<entry name="queue/MessageEquivocado" />
+				<entry name="java:jboss/exported/jms/queue/MessageEquivocado" />
+				<durable>true</durable>
+			</jms-queue>
+			<jms-topic name="MessageValido">
+				<entry name="topic/MessageValido" />
+				<entry name="java:jboss/exported/jms/topic/MessageValido" />
+			</jms-topic>
+		</jms-destinations>
+	</hornetq-server>
+</messaging-deployment>

@@ -1,0 +1,7 @@
+c:\users\changqu\documents\visual studio 2012\Projects\sdi3-180.Cli-SOAP-CSharp\sdi3-180.Cli-SOAP-CSharp\bin\Debug\sdi3-180.Cli-SOAP-CSharp.exe.config
+C:\Users\changqu\Desktop\sdi3-180.Cli-SOAP-CSharp\sdi3-180.Cli-SOAP-CSharp\bin\Debug\sdi3-180.Cli-SOAP-CSharp.exe.config
+C:\Users\changqu\Desktop\sdi3-180.Cli-SOAP-CSharp\sdi3-180.Cli-SOAP-CSharp\obj\Debug\sdi3-180.Cli-SOAP-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\changqu\Desktop\sdi3-180.Cli-SOAP-CSharp\sdi3-180.Cli-SOAP-CSharp\bin\Debug\sdi3-180.Cli-SOAP-CSharp.exe
+C:\Users\changqu\Desktop\sdi3-180.Cli-SOAP-CSharp\sdi3-180.Cli-SOAP-CSharp\bin\Debug\sdi3-180.Cli-SOAP-CSharp.pdb
+C:\Users\changqu\Desktop\sdi3-180.Cli-SOAP-CSharp\sdi3-180.Cli-SOAP-CSharp\obj\Debug\sdi3-180.Cli-SOAP-CSharp.exe
+C:\Users\changqu\Desktop\sdi3-180.Cli-SOAP-CSharp\sdi3-180.Cli-SOAP-CSharp\obj\Debug\sdi3-180.Cli-SOAP-CSharp.pdb
